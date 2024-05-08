@@ -1,5 +1,7 @@
 # Maruthi-Rao
-This Is My First Git Repository.
+user.name gajula maruthi rao
+<br>
+user.email gajulamaruthirao103@gmail.com
 <br>
 author-Maruthi Rao
 gajula maruthi rao
